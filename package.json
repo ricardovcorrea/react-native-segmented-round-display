@@ -1,0 +1,50 @@
+{
+  "name": "react-native-segmented-round-display",
+  "version": "1.0.0",
+  "description": "react-native-segmented-round-display provides a simple ARC component, drawn with react-native-svg, it can have one or more segments and its easy configurable.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardovcorrea/react-native-segmented-round-display.git"
+  },
+  "author": "Ricardo V. Corrêa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardovcorrea/react-native-segmented-round-display/issues"
+  },
+  "homepage": "https://github.com/ricardovcorrea/react-native-segmented-round-display#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.1",
+    "@babel/preset-env": "^7.10.1",
+    "@babel/preset-react": "^7.10.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-spring": "^8.0.27"
+  },
+  "peerDependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3",
+    "react-native-svg": "^12.1.0"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "chart",
+    "charts",
+    "graphs",
+    "arc",
+    "segments",
+    "progress",
+    "SVG",
+    "round"
+  ]
+}
