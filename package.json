@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "react-native-segmented-round-display provides a simple ARC component, drawn with react-native-svg, it can have one or more segments and its easy configurable.",
   "main": "index.js",
-  "directories": {
-    "example": "example"
-  },
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-file index.js"
   },
