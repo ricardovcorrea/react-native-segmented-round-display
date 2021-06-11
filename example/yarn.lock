@@ -3177,9 +3177,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@^5.0.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
@@ -5570,6 +5570,14 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
+
+react-native-segmented-round-display@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-segmented-round-display/-/react-native-segmented-round-display-1.0.0.tgz#44e2ac5a4103ae977a88f5bf717c6a55c546313b"
+  integrity sha512-oIS5KZB5Kw2neMTVB1hr5ndg615pXwOmRa6gvF0fBgo8P/PCCpsAI09/S2oXVnV0z/sP7um3TyHcbh6leLxQYA==
+  dependencies:
+    prop-types "^15.7.2"
+    react-spring "^8.0.27"
 
 react-native-svg@^12.1.0:
   version "12.1.0"
